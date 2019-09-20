@@ -1,4 +1,4 @@
-# gaina_v2_api
+# LoopBack4-GraphQL-challenge
 ## 必須
 - node.js
 
