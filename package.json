@@ -61,7 +61,7 @@
     "loopback-connector-kv-redis": "3.0.1",
     "loopback-connector-mongodb": "5.0.0",
     "loopback-connector-rest": "3.4.2",
-    "pm2": "^3.5.1"
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
     "@loopback/build": "2.0.8",
