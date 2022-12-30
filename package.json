@@ -64,7 +64,7 @@
     "pm2": "^3.5.1"
   },
   "devDependencies": {
-    "@loopback/build": "2.0.8",
+    "@loopback/build": "9.0.6",
     "@loopback/http-caching-proxy": "^1.1.10",
     "@loopback/testlab": "1.7.4",
     "@types/bcryptjs": "2.4.2",
@@ -74,7 +74,7 @@
     "@types/mocha": "5.2.7",
     "@types/node": "12.7.2",
     "concurrently": "4.1.2",
-    "mocha": "6.2.0",
+    "mocha": "10.2.0",
     "nock": "^10.0.6",
     "source-map-support": "0.5.13",
     "typescript": "3.5.3"
